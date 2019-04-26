@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 15
-  productGUID: 03a45c3c27f3ef2489a0db39f958e5f1
+  productGUID: ce550365a5cae49428be092d237b8102
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -586,10 +586,10 @@ PlayerSettings:
   facebookXfbml: 0
   facebookFrictionlessRequests: 1
   apiCompatibilityLevel: 6
-  cloudProjectId: 4c18524c-44df-4e00-b18d-6bb2b36d5515
+  cloudProjectId: 
   framebufferDepthMemorylessMode: 0
-  projectName: Arkanoid
-  organizationId: felipehenriqueam
+  projectName: 
+  organizationId: 
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
   disableOldInputManagerSupport: 0

@@ -4,15 +4,10 @@ using UnityEngine;
 
 public class Bola : MonoBehaviour
 {
-    // Start is called before the first frame update
+    public Vector2 velocidade;
+
     void Start()
     {
-        
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
+        GetComponent<Rigidbody2D>().AddForce(velocidade);
     }
 }
